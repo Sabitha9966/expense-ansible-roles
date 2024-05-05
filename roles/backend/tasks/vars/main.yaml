@@ -1,4 +1,4 @@
 login_user: root
 login_host: db.purvanshi.online
 login_password: ExpenseApp@1
-db-host: db.purvanshi.online
+DB_HOST: db.purvanshi.online
