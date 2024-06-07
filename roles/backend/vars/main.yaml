@@ -2,3 +2,5 @@ login_user: root
 login_password: ExpenseApp@1
 login_host: db.purvanshi.online
 DB_HOST: db.purvanshi.online
+app_location: /app
+component: backend
