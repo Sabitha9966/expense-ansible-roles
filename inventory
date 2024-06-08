@@ -5,7 +5,7 @@ db.purvanshi.online
 backend.purvanshi.online
 
 [frontend]
-purvanshi.online
+frontend.purvanshi.online
 
 
 [all:vars]
